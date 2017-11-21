@@ -1,4 +1,4 @@
-package com.example.wangsir.appstoredetail;
+package com.example.wangsir.appstoredetail.utils;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
