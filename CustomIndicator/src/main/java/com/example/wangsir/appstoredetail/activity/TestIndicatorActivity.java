@@ -23,6 +23,7 @@ public class TestIndicatorActivity extends AppCompatActivity {
     List<String> datas = new ArrayList<>();
     private CustomIndicator mIndicator;
 
+    //https://www.cnblogs.com/whoislcj/p/5720202.html
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

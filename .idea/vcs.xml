@@ -3,5 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CustomIndicator" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/taglayout" vcs="svn" />
   </component>
 </project>

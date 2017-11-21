@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AppStoreDetail.iml" filepath="$PROJECT_DIR$/AppStoreDetail.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomIndicator/CustomIndicator.iml" filepath="$PROJECT_DIR$/CustomIndicator/CustomIndicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taglayout/taglayout.iml" filepath="$PROJECT_DIR$/taglayout/taglayout.iml" />
     </modules>
   </component>
 </project>
