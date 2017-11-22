@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AppStoreDetail.iml" filepath="$PROJECT_DIR$/AppStoreDetail.iml" />
       <module fileurl="file://$PROJECT_DIR$/CustomIndicator/CustomIndicator.iml" filepath="$PROJECT_DIR$/CustomIndicator/CustomIndicator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/taglayout/taglayout.iml" filepath="$PROJECT_DIR$/taglayout/taglayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customtextview/customtextview.iml" filepath="$PROJECT_DIR$/customtextview/customtextview.iml" />
     </modules>
   </component>
 </project>

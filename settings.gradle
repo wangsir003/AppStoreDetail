@@ -1,1 +1,1 @@
-include ':CustomIndicator', ':taglayout'
+include ':CustomIndicator', ':customtextview'

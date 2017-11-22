@@ -9,7 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/CustomIndicator" />
-            <option value="$PROJECT_DIR$/taglayout" />
+            <option value="$PROJECT_DIR$/customtextview" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
